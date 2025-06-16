@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aryam-22
+- 👋 Hi, I’m @Aryan-22
 - 👀 I’m interested in Sketching, gaming and coding
-- 🌱 I’m currently learning HTML, CSS, C
-- 💞️ I’m looking to collaborate on HTML, CSS, C
+- 🌱 I’m currently learning HTML, CSS, C, Python
+- 💞️ I’m looking to collaborate on HTML, CSS, C, Python
 - 📫 How to reach me via Github
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
